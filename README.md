@@ -37,12 +37,12 @@ java -jar target/jmh-fibonacci.jar
 
 ### Result
 
-| Benchmark             | Score                  |
-| --------------------- | ---------------------- |
-| Bottom-up (Iteration) | 38.112 ns / op         |
-| Tail Recursive        | 54.201 ns / op         |
-| Memoization           | 180.374 ns / op        |
-| Stream API            | 600.472                |
+| Benchmark             |                  Score |
+| --------------------- | ---------------------: |
+| Bottom-up (Iteration) |         38.112 ns / op |
+| Tail Recursive        |         54.201 ns / op |
+| Memoization           |        180.374 ns / op |
+| Stream API            |        600.472 ns / op |
 | Naive Recursive       | 3758207400.000 ns / op |
 
 ### Screenshot
