@@ -1,4 +1,5 @@
 # JMH Fibonacci Algorithm Benchmark
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 
 A Java Microbenchmark Harness (JMH) demo within several algorithm/ solution of Fibonacci N position calculation benchmark.
 
@@ -59,3 +60,8 @@ java -jar target/jmh-fibonacci.jar
 - [JMH - Java Microbenchmark Harness](http://tutorials.jenkov.com/java-performance/jmh.html)
 - [Java Iterative Benchmark](https://github.com/smartinrub/java-iterative-benchmark)
 - [Fibonacci Number](https://en.wikipedia.org/wiki/Fibonacci_number)
+
+
+
+## License
+Licensed under the MIT License. See [LICENSE](/LICENSE) file.
